@@ -1,0 +1,18 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Python Debugger: Current File",
+            "program": "src/run.py",
+            "type": "debugpy",
+            "request": "launch",
+            "console": "integratedTerminal",
+            "args": ["-c", "R:\\e2projects_two\\Stefan\\hb_1491\\scripts\\hb_1491\\configs"]
+
+
+        }
+    ]
+}

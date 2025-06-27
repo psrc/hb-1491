@@ -1,0 +1,12 @@
+
+run_get_transit_stops: False
+run_capacity_analysis: True
+use_walksheds: True
+
+gtfs_dir: 'R:/e2projects_two/Stefan/hb_1491/scripts/hb_1491/inputs/GTFS'
+output_gdb: 'R:/e2projects_two/Stefan/hb_1491/output.gdb'
+h5_cache_dir: 'N:/base_year_2023_inputs/urbansim2_inputs/psrc_base_year_2023_alloc_py3.h5'
+data_dir: 'R:/e2projects_two/Stefan/hb_1491/scripts/hb_1491/inputs'
+
+population_year: 2021
+crs: 2285
